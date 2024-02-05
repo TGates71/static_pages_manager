@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<updateserver>
+	<modulename>Static Pages Manager</modulename>
+	<latestversion>100</latestversion>
+	<downloadurl>http://zppy-repo.mach-hosting.com/error_pages.zpp</downloadurl>
+	<desc>This module allows the user to edit and restore the Custom Static Pages that are used by Sentora.</updatedesc>
+	<authorname>T.Gates</authorname>
+	<authoremail>tgates@mach-hosting.com</authoremail>
+	<authorurl>http://www.sentora.org</authorurl>
+	<ostype>all</ostype>
+</updateserver>

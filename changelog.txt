@@ -1,0 +1,7 @@
+ * Changelog for Static Pages Manager Module for Sentora.org
+ * Changelog.txt
+ * Author :  TGates
+ * Email :  tgates@mach-hosting.com
+
+v1.0.0
+-Initial Module creation
