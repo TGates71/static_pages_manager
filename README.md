@@ -1,4 +1,8 @@
-# static_pages_manager
-For use with Sentora Control Panel. This module allows the user to edit and restore the Custom Static Pages used by Sentora. (index.html, bandwidth exceeded, account suspended, etc.)
+# Static Pages Manager
+This module allows the Admin to customize the Sentora static pages<br>
+<br>
+# Not released, still in development.
 
-My Sentora ZPPY repository: http://zppy-repo.mach-hosting.com/
+For use with Sentora Hosting Control Panel (https://sentora.org/)<br>
+My Sentora ZPPY repository: https://zppy-repo.mach-hosting.com/<br>
+ZPPY repo URL: https://zppy-repo.mach-hosting.com/repo<br>
